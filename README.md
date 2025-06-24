@@ -39,7 +39,7 @@ react-tic-tac-toe/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/react-tic-tac-toe.git
+git clone https://github.com/Debarghya-Das/react-tic-tac-toe.git
 cd react-tic-tac-toe
 
 🙌 Author
